@@ -83,7 +83,7 @@ const About = () => {
                             }
                         }}
                             fontWeight='600'>
-                            About Me, Im Vito Medlej
+                            About Me, Im Sumant Bobade
                         </Typography>
                         <Typography
                             variant='h2'
@@ -94,7 +94,7 @@ const About = () => {
                                 sm: '1em'
                             }
                         }}>
-                      A 20-year-old Lebanon-based software developer. I first started developing games using Unity3D, but soon realized I preferred web and mobile app development, and I&apos;ve been building and working on that for the past 3 years now.
+                      With a foundation in game development and a growing expertise in AI and full-stack engineering, I’m a 20-year-old developer from India driven by curiosity and problem-solving. My work revolves around designing intelligent systems, building efficient applications, and crafting clean, user-focused digital experiences.
 
                         </Typography>
                     </Box>
@@ -108,11 +108,10 @@ const About = () => {
                             },
                             pb:'.5em'
                         }}>
-                      Being self-taught made me appreciate education; thus, I&apos;m studying Management Information Systems simultaneously. Business and technology are both my passions.
-
-                        </Typography>
+                    My work focuses on building intelligent systems, designing efficient and user-friendly web applications, and experimenting with AI-driven features that make technology more human-centered. I love exploring new frameworks, pushing creative boundaries, and developing solutions that balance performance and design.
+                    </Typography>
                     <ReadMore>
-                    Aside from working hard, I tend to enjoy simple things like reading, petting cats, hitting the gym, and other things we humans do. If any of what I said seems interesting, then please do not hesitate to send me a message.
+                            Outside of development, I’m passionate about <strong>reading books</strong>, <strong> designing and developing games</strong>, and continuously exploring new technologies. As the <strong>Vice Chairperson of my college’s Training and Placement Cell (I2IOC-TPO, VIT)</strong>, I’ve had the opportunity to lead technical teams, organize coding events, and mentor peers — experiences that strengthened my leadership, collaboration, and problem-solving skills. I believe creativity thrives on curiosity and every project I work on is another step toward turning imagination into innovation.
                     </ReadMore>
                 </Grid>
             </Grid>

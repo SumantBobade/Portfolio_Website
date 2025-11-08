@@ -7,6 +7,10 @@ import MainTitleAnimation from '../../../gsap/MainTitleAnimation';
 import HandymanIcon from '@mui/icons-material/Handyman';
 import HttpIcon from '@mui/icons-material/Http';
 import DevicesIcon from '@mui/icons-material/Devices';
+import PsychologyIcon from '@mui/icons-material/Psychology';
+import StorageIcon from '@mui/icons-material/Storage';
+import SportsEsportsIcon from '@mui/icons-material/SportsEsports';
+
 
 export const centeredStyles = {
     alignItems: 'center',
@@ -20,22 +24,29 @@ export const centeredStyles = {
 gsap.registerPlugin(ScrollTrigger);
 
 
-const perksArray = [{
-    title:'Continuous support',
-    Icon:HandymanIcon,
-    text:'I will advance your web-based software to keep it efficient, competitive on the market. Using a well-established DevOps processes, It helps me roll out urgent updates within few hours and release new, planned functional modules every other week.',
-},
-{
-    title : 'Back-end development',
-    text : 'I accurately implement the business logic of your web app on the back end. I always rely on proven frameworks to ensure fast and quality coding. And I build well structured APIs to integrate your web app with corporate or third-party systems and services',
-    Icon :  HttpIcon,
-}   ,
-{
-    title : 'Frontend design/dev',
-    Icon : DevicesIcon,
-    text : 'As a web expert I tend to closely analyze the user audience to understand their needs and reflect these findings in UI design. Having agreed on the look and feel of a web app with project stakeholders, I push to bring it to life with smart front-end technologies.'
-}
-]
+const perksArray = [
+  {
+    title: 'AI & Machine Learning',
+    Icon: PsychologyIcon, // you can import this from @mui/icons-material/Psychology
+    text: 'I build AI-powered systems that learn, adapt, and improve. From NLP tools to intelligent automation and recommendation systems, I use frameworks like TensorFlow and Hugging Face to create data-driven, scalable solutions.',
+  },
+  {
+    title: 'Full-Stack Development',
+    Icon: StorageIcon, // import from @mui/icons-material/Storage
+    text: 'I develop scalable, user-focused applications with clean architecture. Using Next.js, Python, and REST APIs, I craft both intuitive front-ends and high-performance back-ends that bring ideas to life.',
+  },
+  {
+    title: 'Game Development',
+    Icon: SportsEsportsIcon, // import from @mui/icons-material/SportsEsports
+    text: 'My journey began with Unity3D, where I designed gameplay systems and AI-driven mechanics using C#. I now merge that creativity with engineering to build interactive and immersive digital experiences.',
+  },
+  {
+    title: 'Continuous Support',
+    Icon: HandymanIcon, // already imported
+    text: 'I ensure your software stays efficient and reliable. Using agile and DevOps practices, I handle updates, performance tuning, and feature rollouts that keep your projects evolving smoothly.',
+  },
+];
+
 const Perks = () => {
 
     
