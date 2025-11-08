@@ -1,27 +1,80 @@
-# Free Developer Portfolio Template by Vito Medlej
+# 👋 Hi, I'm Sumant Prashant Bobade
 
-This is an open-source portfolio website template for developers. Showcase your skills, projects, and experience with this customizable and easy-to-use template.
+🎯 **Software Developer | AI & ML Enthusiast | Game Developer**
 
-## Features
+Passionate software professional with a strong foundation in **programming, problem-solving, and modern development practices**.  
+I love building **reliable, scalable, and user-focused software solutions** while continuously learning and improving.
 
-- Animations
-- Responsive design
-- Customizable sections for skills, projects, and experience
-- Contact form
-- Social media links
+---
 
-## Getting Started
+## 📚 Education
 
-To get started with this template, follow these steps:
+**Vishwakarma Institute of Information Technology (VIIT), Pune**  
+*Bachelor of Technology in Artificial Intelligence and Data Science*  
+📅 Aug 2023 – May 2027  
+🎓 **CGPA:** 9.14 / 10  
+**Specialization:** Software Development, AI & ML, Game Development  
 
-1. Clone or download this repository to your local machine.
-2. Install the dependencies
-3. Deploy the website to your preferred hosting service.
+**Nirala Junior College, Nagpur**  
+*High School (Percentage: 80.5%)*  
+📅 Aug 2021 – May 2023  
 
-## Contributing
+---
 
-Contributions to this project are welcome! If you have an idea for a new feature or improvement, please open an issue to discuss it. Pull requests are also welcome.
+## 💻 Technical Skills
 
-## License
+**Programming Languages:** Python, C++, SQL, C, Shell scripting, C#  
+**Frameworks & Tools:** TensorFlow, NumPy, Pandas, Matplotlib, Scikit-Learn, Unity, Figma, Power BI, Miro, MySQL, MongoDB, MCP,  
+Jupyter Notebook, VS Code, GitHub, Hugging Face, Agile  
+**Soft Skills:** Team Leadership, Event Management, Problem-Solving, Critical Thinking, Adaptability, Collaboration,  
+Strategic Planning, Time Management, Presentation Skills, Continuous Learning  
 
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
+---
+
+## 🚀 Projects
+
+### 🧠 AI-Powered Meeting Summarization Tool *(Jan 2025 – Apr 2025)*
+**Tech:** Python, TensorFlow, Gradio, Hugging Face  
+- Built an AI tool that converts meeting audio into concise notes in real time using LLM-based NLP techniques.  
+- Designed a user-friendly Gradio interface and deployed it on Hugging Face for public access.  
+
+### 💼 AI Job Recommendation using MCP *(Sept 2025 – Nov 2025)*
+**Tech:** Python, LLMs, Transformers, Model Context Protocol (MCP)  
+- Developed an intelligent job recommendation system using LLMs integrated with the MCP protocol.  
+- Fine-tuned transformer-based models to efficiently match user profiles with job opportunities.  
+
+### 🎮 DeathVortex *(Jan 2025 – May 2025)*
+**Tech:** Unity, C#, Itch.io  
+- Created a third-person shooter PC game with mission-based gameplay and strategic enemy AI.  
+- Implemented weapon systems, AI behaviors, and level design using Unity and C#.  
+- Followed Agile methodology with iterative development and feedback-based sprints.  
+
+---
+
+## 🏅 Certifications
+
+- 🎮 **Unity Junior Programmer**  
+- 🤖 **AI-ML Virtual Internship – AICTE**  
+- 🧩 **Python for Data Science & AI Development – IBM**
+
+---
+
+## 🌟 Achievements & Leadership
+
+- **Vice-Chairperson, I2IOC-TPO VIIT** – Coordinated cross-functional technical and operational events.  
+- **LinkedIn Campus Ambassador** – Promoted professional networking and engagement.  
+- **AR Developer, XRGF**  
+- **AI&DS Team, Cisco NetAcad VIIT**
+
+---
+
+## 🔗 Connect with Me
+
+📧 **Email:** [sumantbobade@gmail.com](mailto:sumantbobade@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/SumantBobade](https://linkedin.com/in/SumantBobade)  
+💻 **GitHub:** [github.com/SumantBobade](https://github.com/SumantBobade)  
+🤗 **Hugging Face:** [huggingface.co/SumantBobade](https://huggingface.co/SumantBobade)
+
+---
+
+⭐ *“Keep building, keep learning — every project is a step forward.”*
