@@ -12,11 +12,9 @@ I love building **reliable, scalable, and user-focused software solutions** whil
 **Vishwakarma Institute of Information Technology (VIIT), Pune**  
 *Bachelor of Technology in Artificial Intelligence and Data Science*  
 📅 Aug 2023 – May 2027  
-🎓 **CGPA:** 9.14 / 10  
 **Specialization:** Software Development, AI & ML, Game Development  
 
-**Nirala Junior College, Nagpur**  
-*High School (Percentage: 80.5%)*  
+**Nirala Junior College, Nagpur**    
 📅 Aug 2021 – May 2023  
 
 ---
