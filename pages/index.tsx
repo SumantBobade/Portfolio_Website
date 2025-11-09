@@ -10,6 +10,7 @@ import CursorAnimation from "../src/gsap/CursorAnimation";
 import About from "../src/components/Sections/About/About";
 import Layout from "../Layout/Layout";
 
+
 const Home: NextPage = ({ projectsArray, iconsArray }: any) => {
   const ball = useRef<any>(null);
 

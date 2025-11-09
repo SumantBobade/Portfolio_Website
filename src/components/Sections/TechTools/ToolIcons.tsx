@@ -1,5 +1,3 @@
-// pages/index.tsx or pages/portfolio.tsx
-
 import TechTools from "@/components/Sections/TechTools/TechTools.tsx";
 import TensorflowSVG from "@/assets/icons/tensorflow.svg";
 import NextSVG from "@/assets/icons/nextjs.svg";
